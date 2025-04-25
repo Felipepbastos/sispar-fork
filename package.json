@@ -1,5 +1,5 @@
 {
-  "name": "sispar_fork",
+  "name": "sispar-fork",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,8 +13,8 @@
     "axios": "^1.8.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-router-dom": "^7.3.0",
-    "sass": "^1.85.1"
+    "react-router-dom": "^7.5.2",
+    "sass": "^1.86.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
